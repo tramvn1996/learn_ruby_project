@@ -5,6 +5,16 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+
+## Tutorials
+
+Follow the tutorial found on [Rails Tutorial](https://www.railstutorial.org/book/static_pages)
+
+## Heroku
+
+Guide to set up [Heroku](http://sourabhbajaj.com/mac-setup/Heroku/README.html)
+
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
