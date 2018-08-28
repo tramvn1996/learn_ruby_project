@@ -14,6 +14,22 @@ Follow the tutorial found on [Rails Tutorial](https://www.railstutorial.org/book
 
 Guide to set up [Heroku](http://sourabhbajaj.com/mac-setup/Heroku/README.html)
 
+## Chapter 3
+
+- The rails script generates a new controller with rails generate controller ControllerName <optional action names>.
+
+- New routes are defined in the file config/routes.rb.
+
+- Rails views can contain static HTML or embedded Ruby (ERb).
+
+- Automated testing allows us to write test suites that drive the development of new features, allow for confident refactoring, and catch regressions.
+
+- Test-driven development uses a “Red, Green, Refactor” cycle.
+
+- Rails layouts allow the use of a common template for pages in our application, thereby eliminating duplication.
+
+
+
 
 ## License
 
