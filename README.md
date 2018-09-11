@@ -51,6 +51,23 @@ Guide to set up [Heroku](http://sourabhbajaj.com/mac-setup/Heroku/README.html)
 
 - It is possible to open up and modify built-in Ruby classes.
 
+
+## Chapter 5
+
+- Use HTML5 to define a site layout with logo, header, footer, and main body content.
+
+- Rails partials are used to place markup in a separate file for convenience.
+
+- CSS allows us to style the site layout based on CSS classes and ids.
+
+- The Bootstrap framework makes it easy to make a nicely designed site quickly.
+
+- Sass and the asset pipeline allow us to eliminate duplication in our CSS while packaging up the results efficiently for production.
+
+- Rails allows us to define custom routing rules, thereby providing named routes.
+
+- Integration tests effectively simulate a browser clicking from page to page.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
